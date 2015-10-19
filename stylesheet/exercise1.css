@@ -1,0 +1,18 @@
+h1 {
+	color: red;
+}
+h2 {
+	background: orange;
+	color: green;
+}
+p {
+	color: blue;
+	font: helvetica;
+	font-size: 16px;
+}
+ul li {
+	background-color: yellow;
+}
+ol li{
+	background: teal;
+}
